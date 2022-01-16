@@ -1,2 +1,2 @@
 Added new content first time in this file
-
+This is the new content to learn the stash.
